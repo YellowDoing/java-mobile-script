@@ -1,6 +1,7 @@
 # Java手游脚本制作
 
 Chapter1.class  对应公众号文章  [《（二）流程、测量、脚本》](https://mp.weixin.qq.com/s/GmmoWA2qjCvv6bSgq1IeDw)
+
 Chapter2.class  对应公众号文章  [《（三）场景分类：颜色对比法》](https://mp.weixin.qq.com/s/Dv_YzcaVHjrjOj-C7i6H4Q)
 
 
